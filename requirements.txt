@@ -32,7 +32,7 @@ tensorboard==2.19.0
 tensorboard-data-server==0.7.2
 tensorflow==2.19.0
 # Note, for `tensorflow-io-gcs-filesystem` it must be pinned to 0.34.0 manually after generating the `requirements.txt` file.
-tensorflow-io-gcs-filesystem==0.34.0
+tensorflow-io-gcs-filesystem==0.37.1
 termcolor==3.1.0
 typing_extensions==4.14.0
 urllib3==2.4.0
